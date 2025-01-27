@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="ผู้จำหน่ายอุปกรณ์ครัวมืออาชีพ FFT Asia">
+    <meta name="keywords" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>ผู้จำหน่ายอุปกรณ์ครัวมืออาชีพ FFT Asia</title>
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Cookie&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&display=swap"
+    rel="stylesheet">
+
+    <!-- Css Styles -->
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="css/font-awesome.min.css" type="text/css">
+    <link rel="stylesheet" href="css/elegant-icons.css" type="text/css">
+    <link rel="stylesheet" href="css/jquery-ui.min.css" type="text/css">
+    <link rel="stylesheet" href="css/magnific-popup.css" type="text/css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css" type="text/css">
+    <link rel="stylesheet" href="css/slicknav.min.css" type="text/css">
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+</head>
+
+<body>
+    <!-- Page Preloder -->
+    <div id="preloder">
+        <div class="loader"></div>
+    </div>
+
+    <!-- Offcanvas Menu Begin -->
+    <div class="offcanvas-menu-overlay"></div>
+    <div class="offcanvas-menu-wrapper">
+        <div class="offcanvas__close">+</div>
+
+        <div class="offcanvas__logo">
+            <a href="./index.html"><img src="img/logo_fft1.png" alt=""></a>
+        </div>
+        <div id="mobile-menu-wrap"></div>
+
+    </div>
+    <!-- Offcanvas Menu End -->
+
+    <!-- Header Section Begin -->
+    <header class="header">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-xl-3 col-lg-2">
+                    <div class="header__logo">
+                        <a href="./index.html"><img src="img/logo_fft1.png" alt=""></a>
+                    </div>
+                </div>
+                <div class="col-xl-6 col-lg-7">
+                    <nav class="header__menu">
+                        <ul>
+                            <li class="active"><a href="./index.html">หน้าหลัก</a></li>
+							<li><a href="#">ผลิตภัณฑ์</a>
+                                <ul class="dropdown">
+                                    <li><a href="#">P1</a></li>
+                                    <li><a href="#">P2</a></li>
+									<li><a href="#">P3</a></li>
+									<!--
+                                    <li><a href="#">Pre Filter</a></li>
+									<li><a href="#">Medium Filter</a></li>
+									<li><a href="#">Synthetic Pocket Filter</a></li>
+									<li><a href="#">Carbon Filter</a></li>
+									-->
+									<li><a href="#">P4</a></li>
+                                </ul>
+                            </li>
+							<li><a href="#">การออกแบบที่กำหนดเองและเหล็กกล้าไร้สนิม</a></li>
+                            <li><a href="#">ติดต่อเรา</a></li>
+                        </ul>
+                    </nav>
+                </div>
+
+            </div>
+            <div class="canvas__open">
+                <i class="fa fa-bars"></i>
+            </div>
+        </div>
+    </header>
+    <!-- Header Section End -->
+
+    <!-- Categories Section Begin -->
+    <section class="categories">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-6 p-0">
+                    <div class="categories__item categories__large__item set-bg"
+                    data-setbg="img/categories/category-11.jpg">
+                    <div class="categories__text">
+                        <h1>FFT Asia</h1>
+                        <b><h6>ฟดวฟากด่วฟากด่วฟหา่กดวฟหกดสฟหกวดฟ้หวกดฟหกดฟ่ว
+                            <br><br>ฟหด่ฟสวหกด่าฟหรกด่ฟหวกดวฟหกดวฟาห่กวดาฟ่หวกดา่ฟวหก่ดวฟหาก่ดว
+                            <br><br>กดวสาหกดรฟหกดสฟหก่ดวาฟา่หกวด่ฟวหกา่ดวฟห้กวดฟหสวกดวฟห่กดวสาฟห่กว
+                        </h6></b>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="row">
+                    <div class="col-lg-6 col-md-6 col-sm-6 p-0">
+                        <div class="categories__item set-bg" data-setbg="img/categories/category-22.jpg">
+                            <div class="categories__text">
+                                <h4>Product 1</h4>
+                                <br>
+                                <b><h6>ฟวสกาด่วฟหกด่วสฟาหกวดาฟหว<br>ฟวดวฟ่าหกดวสฟ่หวด่ฟวหก่ดาฟวหกด่าว</h6></b>
+                                <!--<p>รับออกแบบและติดตั้ง เครื่องดักฝุ่นระบบบำบัดฝุ่น</p>-->
+                                <br>
+                                <a href="#">Click</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-6 p-0">
+                        <div class="categories__item set-bg" data-setbg="img/categories/category-33.jpg">
+                            <div class="categories__text">
+                                <h4>Product 2</h4>
+                                <br>
+                                <b><h6>M001</h6></b>
+                                <p>ฟกดฟกหดฟหกดตต์
+                                    <br>
+                                    ดฟ่หากสวด่ฟวหกา่ดว
+                                    <br>
+                                    ดหกดฟหกดฟหกด
+                                    <br>
+                                    เหกดกดำดำดฟหดำ
+                                    <br>
+                                    ดฟหกดฟหกดฟหกด
+                                </p>
+                                
+                                <a href="#">Click</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-6 p-0">
+                        <div class="categories__item set-bg" data-setbg="img/categories/category-44.jpg">
+                            <div class="categories__text">
+                                <h4>Product 3</h4>
+                                <br>
+                                <b><h6>กหสาดวฟหกดาวฟหกด่หวกดวฟหดก<br>ดฟหก่วดฟ่หกวดฟหกวดาฟวหกด</h6></b>
+                                <!--<p>บริการ PM เครื่องจักรอุตสาหกรรม</p>-->
+                                <!--<a href="#">Click</a>-->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-6 p-0">
+                        <div class="categories__item set-bg" data-setbg="img/categories/category-55.jpg">
+                            <div class="categories__text">
+                                <h4>Product 4</h4>
+                                <br>
+                                <b><h6>ฟกดฟวกด่ฟวกดา่วฟหาก<br>ฟหดกฟห่กวดสา่ฟหกวด่สฟวห่กดว</h6></b>
+                                <!--<p>จำหน่ายอะไหล่ อุปกรณ์เสริมทุกชนิด</p>-->
+                                <br>
+                                <a href="#">M41</a>
+                                <br>
+                                <a href="#">M42</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Categories Section End -->
+
+
+<!-- Footer Section Begin -->
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-lg-2 col-md-3 col-sm-5">
+                <div class="footer__widget">
+                    <h6>Quick links</h6>
+                    <ul>
+                        <li><a href="./index.html">Home</a></li>
+                         <li><a href="./product_g1.html">Dust Collector</a></li>
+                         <li><a href="./product_g2.html">Cartridge Filter</a></li>
+                         <li><a href="./product_g3.html">Filter</a></li>
+						 <li><a href="./product_g4.html">Vacuum Cleaner</a></li>
+						 
+                         <li><a href="./contact.html">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+  
+
+            <div class="col-lg-4 col-md-8 col-sm-8">
+                <div class="footer__newslatter">
+ 
+                    <div class="footer__social">
+                        <a href="#"><i class="fa fa-facebook"></i></a>
+                        <a href="#"><i class="fa fa-twitter"></i></a>
+                        <a href="#"><i class="fa fa-youtube-play"></i></a>
+                        <a href="#"><i class="fa fa-instagram"></i></a>
+                        <a href="#"><i class="fa fa-pinterest"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</footer>
+<!-- Footer Section End -->
+
+<!-- Search Begin -->
+<div class="search-model">
+    <div class="h-100 d-flex align-items-center justify-content-center">
+        <div class="search-close-switch">+</div>
+        <form class="search-model-form">
+            <input type="text" id="search-input" placeholder="Search here.....">
+        </form>
+    </div>
+</div>
+<!-- Search End -->
+
+<!-- Js Plugins -->
+<script src="js/jquery-3.3.1.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.magnific-popup.min.js"></script>
+<script src="js/jquery-ui.min.js"></script>
+<script src="js/mixitup.min.js"></script>
+<script src="js/jquery.countdown.min.js"></script>
+<script src="js/jquery.slicknav.js"></script>
+<script src="js/owl.carousel.min.js"></script>
+<script src="js/jquery.nicescroll.min.js"></script>
+<script src="js/main.js"></script>
+</body>
+
+</html>
